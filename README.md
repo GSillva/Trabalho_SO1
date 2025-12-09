@@ -6,5 +6,5 @@ Instruções de execução
 
 Digite no terminal do diretório que se encontra o código:
 
-g++ proc.cpp -o programa
+g++ proc.cpp -o programa \n
 ./programa
